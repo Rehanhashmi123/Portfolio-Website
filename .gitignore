@@ -1,0 +1,5 @@
+# Ignore the modules folder in the root directory
+/modules/
+
+# Ignore any folder named 'module' in any directory
+**/module/
