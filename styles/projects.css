@@ -1,0 +1,16 @@
+/* projects.css */
+body {
+    background-color: #e0e0e0;
+  }
+  
+  header {
+    background-color: #555;
+    color: white;
+  }
+  
+  nav a {
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  
