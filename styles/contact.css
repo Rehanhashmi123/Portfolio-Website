@@ -1,0 +1,16 @@
+/* contact.css */
+body {
+    background-color: #dcdcdc;
+  }
+  
+  header {
+    background-color: #666;
+    color: white;
+  }
+  
+  nav a {
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  
