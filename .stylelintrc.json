@@ -2,10 +2,9 @@
     "rules": {
       "declaration-block-no-duplicate-properties": true,
       "no-duplicate-selectors": true,
-      "property-case": "lower",
+      "custom-property-pattern": "^[a-z][a-zA-Z0-9]*$",
       "value-keyword-case": "lower",
       "selector-type-case": "lower",
       "block-no-empty": true
     }
-  }
-  
+}
