@@ -1,0 +1,16 @@
+/* about.css */
+body {
+    background-color: #fff;
+  }
+  
+  header {
+    background-color: #444;
+    color: white;
+  }
+  
+  nav a {
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  
